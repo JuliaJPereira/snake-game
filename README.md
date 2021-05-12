@@ -10,7 +10,7 @@ Para visualizar a aplicação [clique aqui](https://juliajpereira.github.io/snak
 
 ## Tecnologias utilizadas
 
-Projeto de estudo desenvolvimento em HTML, CSS e JavaScript.
+Projeto de estudo desenvolvido em HTML, CSS e JavaScript.
 
 ## Como executar
 
