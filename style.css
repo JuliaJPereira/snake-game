@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('ARCADECLASSIC.TTF');
+}
+
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center; /* alinha horizontalmente no meio */
+    align-items: center; /* alinha verticalmente no meio */
+    flex-direction: column; /* deixa um element abaixo do outro */
+    color: #62A632;
+    font-family: 'MyWebFont';
+    font-size: 20px;
+    letter-spacing: 3px;
+}
